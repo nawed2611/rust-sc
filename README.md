@@ -1,4 +1,4 @@
-# Rust + Solana Exps
+# Rust-SC
 
 `dist` contains the compiled binaries for the solana programs in the `programs` directory.
 `src` contains TS client in `client` and Rust programs in `program`.
